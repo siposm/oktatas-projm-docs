@@ -1,4 +1,4 @@
-# = - = - = - = - = - = - = - = - = - = - = - = - = - = - = - =
+# = - = - = - = - = - = - = - = - = - =
 # PROJM1 féléves menetrend és tematika
 Sziasztok,
 
