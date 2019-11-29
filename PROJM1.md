@@ -24,8 +24,8 @@ A dolgozatnak ideálisan **20 oldalnak** kell lennie a tartalom tekintetében. J
 ----
 
 Mérföldkövek:
-- **10. hét**: eddigre az irodalomkutatással készen kell lenni
-- **13. hét**: eddigre a követelmény specifikáció és a tervezés is készen kell legyen, apró módosítások legyenek már csak hátra
+- **1. MK: 10. hét**: eddigre az irodalomkutatással készen kell lenni
+- **2. MK: 13. hét**: eddigre a követelmény specifikáció és a tervezés is készen kell legyen, apró módosítások legyenek már csak hátra
 
 **Adott hét vasárnapjának 23:59-ig** szeretnék kapni egy doksit emailben amelyben látszik a haladás\*. A 13. hétnél már egy kb. végleges állapotot kellene látnom, ennek fényében osszátok be az időtöket. _* az inkrementumokat esetleg sárga háttérrel is meg lehet jelölni, hogy egyből lássam mi az új / módosított rész._
 
