@@ -41,7 +41,7 @@ Továbbá:
 
 - A félévben nem elfogadható az, hogyha mérföldkő előtt 1 db push-t és commit-ot látok. Szeretném látni, hogy hétről hétre (de legalábbis többet mint pár nap) foglalkozva van az anyaggal. Ezt tekintsétek úgy, hogy a fix 2+1 mérföldkő mellett folyamatos mérföldkövek vannak.
 
-Kérdés esetén keressetek.\
+Kérdés esetén keressetek.
 
 Sipos Miklós\
 Tanszéki Mérnök\
