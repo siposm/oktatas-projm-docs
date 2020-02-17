@@ -24,8 +24,9 @@ A dolgozatnak ideálisan `20 oldalnak` kell lennie **a tartalom** tekintetében 
 ----
 
 Mérföldkövek:
-- **MK 1: 10. hét**: eddigre az `irodalomkutatás` (+ bevezető rész) készen kell legyen
-- **MK 2: 13. hét**: eddigre a `követelmény specifikáció` és a `tervezés` is készen kell legyen, apró módosítások legyenek már csak hátra
+- **MK 1: 5. hét**: eddigre a `bevezető` rész készen kell legyen és az irodalomkutatás jól láthatóan elkezdett állapotban kell legyen
+- **MK 2: 10. hét**: eddigre az `irodalomkutatás` készen kell legyen
+- **MK 3: 13. hét**: eddigre a `követelmény specifikáció` és a `tervezés` is készen kell legyen, apró módosítások legyenek már csak hátra
 
 **Adott hét vasárnapjának 23:59-ig** szeretnék kapni egy doksit emailben amelyben látszik a haladás. A 13. hétnél már egy kb. végleges állapotot kellene látnom, ennek fényében osszátok be az időtöket.
 
