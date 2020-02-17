@@ -30,7 +30,7 @@ Mérföldkövek:
 
 **Adott hét vasárnapjának 23:59-ig** szeretnék kapni egy doksit emailben amelyben látszik a haladás. A 13. hétnél már egy kb. végleges állapotot kellene látnom, ennek fényében osszátok be az időtöket.
 
-Az **email tárgya** ez legyen **fixen**: PROJM1-MK# ahol a # helyett 1 vagy 2 szerepeljen attól függően, hogy melyik mérföldkőről beszélünk. A csatolt mellékletet **.pdf-ben mindenképpen** küldjétek meg, opcionálisan docx-ben is jöhet.
+Az **email tárgya** ez legyen **fixen**: PROJM1-MK# ahol a # helyett 1, 2 vagy 3 szerepeljen attól függően, hogy melyik mérföldkőről beszélünk. A csatolt mellékletet **.pdf-ben mindenképpen** küldjétek meg, opcionálisan docx-ben is jöhet.
 
 ---
 
