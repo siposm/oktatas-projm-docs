@@ -32,6 +32,7 @@ Kérdés esetén keressetek.
 
 Sipos Miklós\
 Tanszéki Mérnök\
-ÓE NIK SZFI\
+Óbudai Egyetem Neumann János Informatikai Kar\
+Szoftvertervezés és –fejlesztés Intézet\
 sipos.miklos@nik.uni-obuda.hu\
 http://users.nik.uni-obuda.hu/siposm/
