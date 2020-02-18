@@ -36,7 +36,7 @@ Az **email tárgya** ez legyen **fixen**: PROJM1-MK# ahol a # helyett 1, 2 vagy 
 
 Kérdés / probléma esetén emailben elértek. Ha valaki a leírtak mentén nem tud önmagától dolgozni, akkor szintén kereshet és egyeztetünk időpontot, viszont fontos, hogy az önálló munka jellemezné ezt a tárgysorozatot elsősorban, tehát én nem fogok a mérföldköveknél többet tudni mondani, hiszen mindenkinek más témája és ritmusa van.
 
-Sipos Miklós\
+**Sipos Miklós**\
 Tanszéki Mérnök\
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és –fejlesztés Intézet\
