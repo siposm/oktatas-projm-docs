@@ -30,7 +30,7 @@ Továbbá:
 
 Kérdés esetén keressetek.
 
-Sipos Miklós\
+**Sipos Miklós**\
 Tanszéki Mérnök\
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és –fejlesztés Intézet\
