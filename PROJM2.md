@@ -8,7 +8,7 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 2** t�
 
 3. A félév során **pár mérföldkövet** fogok tartani, ami azt jelenti, hogy ezen időpontokra szeretnék inkrementumot látni az előző mérföldkőbéli állapothoz képest. Mivel nem fogok a nyakatokra járni, erősen elvárt az önálló munka és haladás.
 
-Ezen dátumok:
+## Mérföldkövek
 - **MK 0: 2. hét**:
 Kérném mindenkitől, hogy a kódnak csináljon egy `repository`-t már most (2. szorgalmi hét vasárnapjának végéig, 23:59-ig bezárólag) és adjon hozzá contributorként ezen a nikes címemen (sipos.miklos@nik.uni-obuda.hu). Repót csak ezek valamelyikén fogadok el: GitLab / GitHub / Bitbucket. Ha ez megtörtént dobjon róla egy mailt a repo linkkel. Csapat esetén az emailt író jelezze, hogy kivel dolgozik még a csapatban.
 
@@ -19,7 +19,7 @@ Ezen időpontra szeretnék egy `nagyjából működő` rendszert látni. Ez nyil
 Ezen időpontra szeretnék egy `közel kész` verziót látni a pilot stádiumból. Ekkor szeretném kérni, hogy készítsetek egy 3-5 perces videót amiben bemutatjátok, hogy mit csináltatok rövid magyarázattal alászinkronizálva. A kész videót Google Drive / YouTube vagy valamilyen más alternatíva segítségével küldjétek meg emailben.
 
 
-Továbbá:
+## További információk
 - A repóban a readme.md-ben helyezzétek el folyamatosan ahogy haladtok, hogy mit mire használtok (elég csak felsorolás szinten), az melyik mappában található stb. A lényeg, hogy én is el tudjak igazodni benne ha megnézem.
 
 - A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége emailben keressen és egyeztetünk konzultációs időpontot (btw oldalamon ugyan úgy fent van az órarend, hogy mikor hol találtok). Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, mintha féléves leadás lenne - az eddig commitolt állapotokat fogom nézni.
