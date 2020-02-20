@@ -19,7 +19,7 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 3** t�
 - mi van kész
 - mi nincs kész
 - min dolgoztok jelenleg
-- mik a kilátások a befejezés tekintetében
+- mik a kilátások a továbbhaladás / befejezés tekintetében
 
 Mivel mindenkinek a témája más, ebből adódóan a komplexitás is más, ezért nem tudok konkrét állapotokat írni, hogy mikorra mi legyen készen, de a %-os aránnyal remélhetőleg be tudjátok saját magatoknak lőni.
 
