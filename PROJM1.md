@@ -5,7 +5,7 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Projektmunka 1** 
 
 Amit kell tudni, hogy ez egy **4 részes tárgy** lesz, viszont mellette be fog jönni a **Szakdolgozat 1-2** tárgy is. A célja **jelen** tárgysorozatnak az volna, hogy dolgozzatok több féléven át egy nagyobb projekten, amiből **akár** a szakdoga is lehet / kinőheti magát. Tehát célszerű volna, hogyha már úgy állnátok az egészhez, mintha szakdoga lenne (ergó nem egy összecsapott munkát adtok le). Ha valaki úgy gondolja, hogy később Szakdolgozatnak mást szeretne leadni, erre is van lehetőség.
 
-Ennek menete **jelen félévre** nézve annyi volna, hogy egy `irodalomkutatást` valamint minimális tervezést kell készíteni, azzal a témával kapcsolatban amit választottatok. Ezt pedig dokumentumban rögzítve kellene majd leadni a félév végén (ill. az adott mérföldkőnél).
+Ennek menete **jelen félévre** nézve annyi volna, hogy egy irodalomkutatást, követelmény specifikációt valamint minimális tervezést kell készíteni, azzal a témával kapcsolatban amit választottatok. Ezt pedig dokumentumban rögzítve kellene majd leadni a félév végén (ill. az adott mérföldkőnél).
 
 ----
 
