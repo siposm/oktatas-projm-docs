@@ -9,7 +9,7 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 3** t�
 - **PM2** kapcsán készült egy `pilot program`, ami a fő csapásvonalát képviseli a szoftvernek amit fejlesztetek (nem 100%-osan kész, itt-ott hiányos / bugos de az alapkoncepció működik).
 
 ## Aktuális félév tartalma
-**PM3** tárgy keretein belül a már meglévő alkalmazást kellene `továbbfejleszteni` és egy szinte kész stádiumban kell a félév végén állni. Ez azt jelenti, hogy minden funkcionalitás működjön és az egyéb szükséges javítások legyenek elvégezve a korábbi pilot állapothoz képest. Ami hiányozhat: tesztelés, dokumentálás, optimalizáció. Ez idő alatt is a repót használjátok rendeltetésszerűen. Szeretném látni, hogy hétről hétre (de legalábbis többet mint pár nap) foglalkozva van az anyaggal. Ezek tekinthetők folyamatos mérföldköveknek.
+**PM3** tárgy keretein belül a már meglévő alkalmazást kellene `továbbfejleszteni` és egy **szinte kész stádiumban kell a félév végén állni**. Ez azt jelenti, hogy minden funkcionalitás működjön és az egyéb szükséges javítások legyenek elvégezve a korábbi pilot állapothoz képest. Ami hiányozhat: tesztelés, dokumentálás, optimalizáció. Ez idő alatt is a repót használjátok rendeltetésszerűen. Szeretném látni, hogy hétről hétre (de legalábbis többet mint pár nap) foglalkozva van az anyaggal. Ezek tekinthetők folyamatos mérföldköveknek.
 
 ## Mérföldkövek
 - **MK 1: 8. hét:** rendszer fejlesztésével haladni (kb. 60-70%-os készültségi állapot az elvárt, hiszen PM2 alatt már foglalkoztatok vele tehát nem nulláról indultok)
