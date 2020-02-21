@@ -2,11 +2,12 @@
 Sziasztok,
 
 Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 2** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
-1. PM1 kapcsán a **félév végére egy dokumentum készült**, amiben felvázoltátok, hogy mit szeretnétek. Ha és amennyiben ez nem lett megfelelően kidolgozott, akkor előfordulhatnak olyan hiányosságok amik a későbbiekben is visszaüthetnek (pl. nem megfelelő tervezés, rossz helyzetfelmérés, hiányos problémaelemzés stb.). Így javasolt lenne -akinél ez a helyzet áll fenn-, hogy picit járjon még utána a témának és foglalkozzon vele.
 
-2. PM2 kapcsán már a **fejlesztést kellene elkezdeni**, és a félév végére egy `pilot` állapothoz eljutni. Aki úgy érzi, hogy hiányossága van PM1 kapcsán, az vegye elő a doksit, olvassa át és pontosítsa (elsősorban) saját magának, hogy mit szeretne csinálni. Pilot állapot alatt azt értjük, hogy a projekt lényege működjön, nem baj ha nincs még GUI, nem baj ha nincs még adatbázis, itt-ott bugok még lehetnek, de a fő cél funkcionálisan már működjön.
+**PM1** kapcsán a **félév végére egy dokumentum készült**, amiben felvázoltátok, hogy mit szeretnétek. Ha és amennyiben ez nem lett megfelelően kidolgozott, akkor előfordulhatnak olyan hiányosságok amik a későbbiekben is visszaüthetnek (pl. nem megfelelő tervezés, rossz helyzetfelmérés, hiányos problémaelemzés stb.). Így javasolt lenne -akinél ez a helyzet áll fenn-, hogy picit járjon még utána a témának és foglalkozzon vele.
 
-3. A félév során **pár mérföldkövet** fogok tartani, ami azt jelenti, hogy ezen időpontokra szeretnék inkrementumot látni az előző mérföldkőbéli állapothoz képest. Mivel nem fogok a nyakatokra járni, erősen elvárt az önálló munka és haladás.
+**PM2** kapcsán már a **fejlesztést kellene elkezdeni**, és a félév végére egy `pilot` állapothoz eljutni. Aki úgy érzi, hogy hiányossága van PM1 kapcsán, az vegye elő a doksit, olvassa át és pontosítsa (elsősorban) saját magának, hogy mit szeretne csinálni. Pilot állapot alatt azt értjük, hogy a projekt lényege működjön, nem baj ha nincs még GUI, nem baj ha nincs még adatbázis, itt-ott bugok még lehetnek, de a fő cél funkcionálisan már működjön.
+
+A félév során **pár mérföldkövet** fogok tartani, ami azt jelenti, hogy ezen időpontokra szeretnék **inkrementumot** látni az előző mérföldkőbéli állapothoz képest. Erősen elvárt az önálló munka.
 
 ## Mérföldkövek
 - **MK 0: 2. hét**:
