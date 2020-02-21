@@ -7,10 +7,10 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 4** t�
 ## Korábbi félévek tartalma
 - **PM1** kapcsán készült `egy dokumentum` ami nagyjából összefoglalja azt, hogy mivel szeretnétek foglalkozni. Bemutatásra kerültek hasonló rendszerek, technológiák amiket fel kívántok használni és hasonlók.
 - **PM2** kapcsán készült egy `pilot program`, ami a fő csapásvonalát képviseli a szoftvernek amit fejlesztetek (nem 100%-osan kész, itt-ott hiányos / bugos de az alapkoncepció működik).
-- **PM3** kapcsán a korábbi pilot program került továbbfejlesztésre, funkcionálisan kész állapotra hozva.
+- **PM3** kapcsán a korábbi pilot program került `továbbfejlesztésre`, funkcionálisan kész állapotra hozva.
 
 ## Aktuális félév tartalma
-**PM4** tárgy keretein belül a dokumentációhoz kellene visszatérni, mely még PM1 alatt került megírásra. Ezt kellene átjavítani szakmailag és formailag amennyiben szükséges, és dokumentálni a fejlesztést valamint a végállapotot.
+**PM4** tárgy keretein belül a dokumentációhoz kellene visszatérni, mely még PM1 alatt került megírásra. Ezt kellene átjavítani szakmailag és formailag amennyiben szükséges, és dokumentálni a fejlesztést valamint a végállapotot. Szakmailag érdemes visszamenni és megnézni, hogy amit írtatok az biztos helyes-e illetve, hogy még mindig aktuális-e (technológiai változásból, vagy tévedésből adódóan lehetnek ebben kis problémák amikre korábban -amikor még első körben írtátok- nem derült ez ki). A fejlesztés (PM2 és 3) folyamatát, felmerült hibákat és azok megoldását valamint eredményét is kell dokumentálni. Végezetül pedig egy összegző konklúzió szükséges a végére, amiben a teljes projekt bemutatásra kerül röviden, elért és el nem ért eredmények, kitűzött célok leírásra kerülnek.
 
 ## Mérföldkövek
 - **MK 1: 8. hét:** dokumentáció formai és tartalmi javításainak elvégzése eddigre kész kell legyen
