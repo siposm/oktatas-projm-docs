@@ -15,7 +15,7 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 3** t�
 - **MK 1: 8. hét:** rendszer fejlesztésével haladni (kb. 60-70%-os készültségi állapot az elvárt, hiszen PM2 alatt már foglalkoztatok vele tehát nem nulláról indultok)
 - **MK 2: 13. hét:** rendszer fejlesztésével elkészülni (kb. 99%-os készültségi állapot az elvárt)
 
-Így, a fejlesztés kapcsán két alkalommal várnék tőletek visszajelzést, hogy **hogyan áll jelenleg** a fejlesztés egy email formájában. Ebben kérlek, hogy térjetek ki röviden ezekre: 
+Így, a fejlesztés kapcsán két alkalommal várnék tőletek visszajelzést, hogy **hogyan áll jelenleg** a fejlesztés egy email formájában. Ebben kérlek, hogy térjetek ki röviden ezekre felsorolás-szerűen: 
 - mi van kész
 - mi nincs kész
 - min dolgoztok jelenleg
