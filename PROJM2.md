@@ -11,7 +11,7 @@ A félév során **pár mérföldkövet** fogok tartani, ami azt jelenti, hogy e
 
 ## Mérföldkövek
 - **MK 0: 2. hét**:
-Kérném mindenkitől, hogy a kódnak csináljon egy `repository`-t már most (2. szorgalmi hét vasárnapjának végéig, 23:59-ig bezárólag) és adjon hozzá contributorként ezen a nikes címemen (sipos.miklos@nik.uni-obuda.hu). Repót csak ezek valamelyikén fogadok el: GitLab / GitHub / Bitbucket. Ha ez megtörtént dobjon róla egy mailt a repo linkkel. Csapat esetén az emailt író jelezze, hogy kivel dolgozik még a csapatban.
+A munkátok forráskódját verziókövetve GitLab-on kell majd kezelni. Ennek én fogok létrehozni egy megfelelő nevű repository-t és ehhez hozzá foglak adni developerként titeket. Ami ehhez szükséges: egy email címet írjatok nekem emailben (nagyon jó lenne, ha GMail-es lenne, mert azzal 1 kattintással be tudtok lépni; ami még opció lehet: Twitter / GitHub / Bitbucket fiókkal is be lehet lépni). Csapat esetén mind a két féltől várnék egy email címet.
 
 - **MK 1: 6. hét**:
 Ezen időpontra szeretnék egy `nagyjából működő` rendszert látni. Ez nyilván feladattól is függ (pl. feladat komplexitása), de a lényeg, hogy körvonalazódjon, hogy mi lesz ebből. Tehát a félév végére ne egy üres projekt legyen. A mérföldkőkor szeretném ha küldenétek egy emailt, leírva benne felsorolás szinten azt, hogy: 1) mi van kész 2) mi nincs kész 3) milyen problémákba ütköztél.
@@ -23,7 +23,7 @@ Ezen időpontra szeretnék egy `közel kész` verziót látni a pilot stádiumb�
 ## További információk
 - A repóban a readme.md-ben helyezzétek el folyamatosan ahogy haladtok, hogy mit mire használtok (elég csak felsorolás szinten), az melyik mappában található stb. A lényeg, hogy én is el tudjak igazodni benne ha megnézem.
 
-- A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége emailben keressen és egyeztetünk konzultációs időpontot (btw oldalamon ugyan úgy fent van az órarend, hogy mikor hol találtok). Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, mintha féléves leadás lenne - az eddig commitolt állapotokat fogom nézni.
+- A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége emailben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, mintha féléves leadás lenne - az eddig commitolt állapotokat fogom nézni.
 
 - A félévben nem elfogadható az, hogyha mérföldkő előtt 1 db commit-push kombót látok. Szeretném látni, hogy hétről hétre (de legalábbis többet mint pár nap) foglalkozva van az anyaggal. Ezt tekintsétek úgy, hogy a fix 2+1 mérföldkő mellett folyamatos mérföldkövek vannak.
 
