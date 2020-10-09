@@ -20,7 +20,7 @@ Ennek menete **jelen félévre** nézve annyi volna, hogy egy irodalomkutatást,
 A dolgozatnak ideálisan `20 oldalnak` kell lennie **a tartalom** tekintetében (tehát üres fél oldalnyi területek, méteres "térlopó" ábrák kerülendők). Javasolt, hogy irodalomjegyzéket már készítsetek, ha lehivatkozások konkrétan még nincsenek, legalább egy gyűjtemény legyen arról, hogy mit dolgoztatok fel (így később nektek is könnyebb lesz, amikor a lehivatkozásokat is meg kell tenni). Hasonlóan kell eljárni a képek esetén is. Wikipedia és egyéb helyekről copy-paste dolgokat mellőzzük ha egy mód van rá, javasolt helyette különböző könyveket és publikációkat preferálni. Ha valakinek esetleg kell egy-egy adott témába vágó konkrét könyv, keressen emailben. Ezek elsőre soknak tűnhetnek, viszont később szakd1-2 kapcsán hasznos lesz, hogy már van egy 80%-os alap amit "csak" le kell adni... Ha pedig más témátok lesz, akkor meg már 1x csináltatok hasonlót tehát könnyű lesz újra egy másik témát létrehozni hasonló módon.
 
 ## Mérföldkövek
-- **MK 1: 5. hét**: eddigre a `bevezető` rész készen kell legyen és az irodalomkutatás jól láthatóan elkezdett állapotban kell legyen
+- **MK 1: 7. hét**: eddigre a `bevezető` rész készen kell legyen és az irodalomkutatás jól láthatóan elkezdett állapotban kell legyen
 - **MK 2: 10. hét**: eddigre az `irodalomkutatás` készen kell legyen
 - **MK 3: 13. hét**: eddigre a `követelmény specifikáció` és a `tervezés` is készen kell legyen, apró módosítások legyenek már csak hátra
 
