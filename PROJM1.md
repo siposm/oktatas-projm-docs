@@ -1,7 +1,7 @@
 # PROJM1 féléves menetrend és tematika
 Sziasztok,
 
-Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Projektmunka 1** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
+Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Projektmunka I.** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
 
 Amit kell tudni, hogy ez egy **4 részes tárgy** lesz, viszont mellette be fog jönni a **Szakdolgozat 1-2** tárgy is. A célja **jelen** tárgysorozatnak az volna, hogy dolgozzatok több féléven át egy nagyobb projekten, amiből **akár** a szakdoga is lehet / kinőheti magát. Tehát célszerű volna, hogyha már úgy állnátok az egészhez, mintha szakdoga lenne (ergó nem egy összecsapott munkát adtok le). Ha valaki úgy gondolja, hogy később Szakdolgozatnak mást szeretne leadni, erre is van lehetőség.
 
