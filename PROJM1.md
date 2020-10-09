@@ -10,9 +10,9 @@ Ennek menete **jelen félévre** nézve annyi volna, hogy egy irodalomkutatást,
 ## A leadandó dokumentumnak tartalmaznia kell
 - **bevezető**: probléma felvetése és megfogalmazása
 - **irodalomkutatás**: témába vágó kutatási témák feldolgozása
+    - hasonló rendszerek elemzése
     - az egyes témák amelyek kapcsolódnak a témádhoz, sorra véve feldolgozva (ez mindenkinek a saját projekttémájától függ)
     - felhasználni kívánt technológiák (c# / php / cpp / js / bármi)
-    - hasonló rendszerek elemzése
     - összegzés: átrágva magad a különböző tématerületeken és hasonló megvizsgált rendszereken, mire jutottál
 - **követelmény specifikáció**: funkciók amelyeket elvársz a készítendő rendszertől (mire legyen képes)
 - **tervezés**: megtervezni a rendszer alapjait (pl. adatbázis, osztályok, komponensek stb.)
