@@ -11,7 +11,7 @@ A félév során **pár mérföldkövet** fogok tartani, ami azt jelenti, hogy e
 
 ## Mérföldkövek
 - **MK 0: 2. hét**:
-A munkátok forráskódját verziókövetve GitLab-on kell majd kezelni. Ennek én fogok létrehozni egy megfelelő nevű repository-t és ehhez hozzá foglak adni developerként titeket. Ami ehhez szükséges: egy email címet írjatok nekem emailben (nagyon jó lenne, ha Gmail-es lenne, mert azzal 1 kattintással be tudtok lépni; ami még opció lehet: Twitter / GitHub / Bitbucket fiókkal is be lehet lépni). Csapat esetén mind a két féltől várnék egy email címet.
+A munkátok forráskódját verziókövetve GitHub-on kell majd kezelni. Ennek én fogok létrehozni egy megfelelő nevű repository-t és ehhez hozzá foglak adni developerként titeket. Ami ehhez szükséges: egy email címet vagy meglévő username-t írjatok nekem emailben. Csapat esetén mind a két féltől várnék egy azonosítót/email címet.
 
 - **MK 1: 6. hét**:
 Ezen időpontra szeretnék egy `nagyjából működő` rendszert látni. Ez nyilván feladattól is függ (pl. feladat komplexitása), de a lényeg, hogy körvonalazódjon, hogy mi lesz ebből. Tehát a félév végére ne egy üres projekt legyen. A mérföldkőkor szeretném ha küldenétek egy emailt, leírva benne felsorolás szinten azt, hogy: 1) mi van kész 2) mi nincs kész 3) milyen problémákba ütköztél.
