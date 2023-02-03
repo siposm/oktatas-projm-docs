@@ -15,7 +15,7 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 3** t�
 - **MK 1: 8. hét:** rendszer fejlesztésével haladni (kb. 60-70%-os készültségi állapot az elvárt, hiszen PM2 alatt már foglalkoztatok vele tehát nem nulláról indultok)
 - **MK 2: 13. hét:** rendszer fejlesztésével elkészülni (kb. 99%-os készültségi állapot az elvárt)
 
-Így, a fejlesztés kapcsán két alkalommal várnék tőletek visszajelzést, hogy **hogyan áll jelenleg** a fejlesztés egy email formájában. Ebben kérlek, hogy térjetek ki röviden ezekre felsorolásszerűen: 
+Így, a fejlesztés kapcsán két alkalommal várnék tőletek visszajelzést, hogy **hogyan áll jelenleg** a fejlesztés egy Teams üzenet formájában. Ebben kérlek, hogy térjetek ki röviden ezekre felsorolásszerűen: 
 - mi van kész
 - mi nincs kész
 - min dolgoztok jelenleg
@@ -23,9 +23,7 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 3** t�
 
 Mivel mindenkinek a témája más, ebből adódóan a komplexitás is más, ezért nem tudok konkrét állapotokat írni, hogy mikorra mi legyen készen, de a %-os aránnyal remélhetőleg be tudjátok saját magatoknak lőni.
 
-Az **email tárgya** ez legyen **fixen**: PROJM3-MK# ahol a # helyett 1 vagy 2 szerepeljen attól függően, hogy melyik mérföldkőről beszélünk.
-
-A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége emailben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, mintha féléves leadás lenne - az eddig commitolt állapotokat fogom nézni és az emaileket is eddig szeretném megkapni fixen.
+A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége Teams üzenetben vagy emailben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, mintha féléves leadás lenne - az eddig commitolt állapotokat fogom nézni és az emaileket is eddig szeretném megkapni fixen.
 
 
 ---
@@ -33,8 +31,8 @@ A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valak
 Kérdés esetén keressetek.
 
 **Sipos Miklós**\
-Tanszéki Mérnök\
+Egyetemi tanársegéd\
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és –fejlesztés Intézet\
 sipos.miklos@nik.uni-obuda.hu\
-http://users.nik.uni-obuda.hu/siposm/
+https://nik.siposm.hu

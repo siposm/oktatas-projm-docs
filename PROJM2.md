@@ -11,19 +11,19 @@ A félév során **pár mérföldkövet** fogok tartani, ami azt jelenti, hogy e
 
 ## Mérföldkövek
 - **MK 0: 2. hét**:
-A munkátok forráskódját verziókövetve GitHub-on kell majd kezelni. Ennek én fogok létrehozni egy megfelelő nevű repository-t és ehhez hozzá foglak adni developerként titeket. Ami ehhez szükséges: egy email címet vagy meglévő username-t írjatok nekem emailben. Csapat esetén mind a két féltől várnék egy azonosítót/email címet.
+A munkátok forráskódját verziókövetve GitHub-on kell majd kezelni. Ennek én fogok létrehozni egy megfelelő nevű repository-t és ehhez hozzá foglak adni developerként titeket. Ami ehhez szükséges: egy email címet vagy meglévő username-t írjatok nekem emailben/teams üzenetben. Csapat esetén mind a két féltől várnék egy azonosítót/email címet.
 
 - **MK 1: 6. hét**:
-Ezen időpontra szeretnék egy `nagyjából működő` rendszert látni. Ez nyilván feladattól is függ (pl. feladat komplexitása), de a lényeg, hogy körvonalazódjon, hogy mi lesz ebből. Tehát a félév végére ne egy üres projekt legyen. A mérföldkőkor szeretném ha küldenétek egy emailt, leírva benne felsorolás szinten azt, hogy: 1) mi van kész 2) mi nincs kész 3) milyen problémákba ütköztél.
+Ezen időpontra szeretnék egy `nagyjából működő` rendszert látni. Ez nyilván feladattól is függ (pl. feladat komplexitása), de a lényeg, hogy körvonalazódjon, hogy mi lesz ebből. Tehát a félév végére ne egy üres projekt legyen. A mérföldkőkor szeretném ha küldenétek egy Teams üzenetet, leírva benne felsorolás szinten azt, hogy: 1) mi van kész 2) mi nincs kész 3) milyen problémákba ütköztél.
 
 - **MK 2: 12. hét**:
-Ezen időpontra szeretnék egy `közel kész` verziót látni a pilot stádiumból. Ekkor szeretném kérni, hogy készítsetek egy 3-5 perces videót amiben bemutatjátok, hogy mit csináltatok rövid magyarázattal alászinkronizálva. A kész videót Google Drive / YouTube vagy valamilyen más alternatíva segítségével küldjétek meg emailben.
+Ezen időpontra szeretnék egy `közel kész` verziót látni a pilot stádiumból. Ekkor szeretném kérni, hogy készítsetek egy 3-5 perces videót amiben bemutatjátok, hogy mit csináltatok rövid magyarázattal alászinkronizálva. A kész videót Google Drive / YouTube vagy valamilyen más alternatíva segítségével küldjétek meg Teams üzenetben.
 
 
 ## További információk
 - A repóban a readme.md-ben helyezzétek el folyamatosan ahogy haladtok, hogy mit mire használtok (elég csak felsorolás szinten), az melyik mappában található stb. A lényeg, hogy én is el tudjak igazodni benne ha megnézem.
 
-- A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége emailben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, mintha féléves leadás lenne - az eddig commitolt állapotokat fogom nézni.
+- A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége Teams üzenetben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, mintha féléves leadás lenne - az eddig commitolt állapotokat fogom nézni.
 
 - A félévben nem elfogadható az, hogyha mérföldkő előtt 1 db commit-push kombót látok. Szeretném látni, hogy hétről hétre (de legalábbis többet mint pár nap) foglalkozva van az anyaggal. Ezt tekintsétek úgy, hogy a fix 2+1 mérföldkő mellett folyamatos mérföldkövek vannak.
 
@@ -32,8 +32,8 @@ Ezen időpontra szeretnék egy `közel kész` verziót látni a pilot stádiumb�
 Kérdés esetén keressetek.
 
 **Sipos Miklós**\
-Tanszéki Mérnök\
+Egyetemi tanársegéd\
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és –fejlesztés Intézet\
 sipos.miklos@nik.uni-obuda.hu\
-http://users.nik.uni-obuda.hu/siposm/
+https://nik.siposm.hu

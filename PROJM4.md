@@ -16,9 +16,9 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 4** t�
 - **MK 1: 8. hét:** dokumentáció formai és tartalmi javításainak elvégzése eddigre kész kell legyen
 - **MK 2: 13. hét:** dokumentációnak tartalmaznia kell a fejlesztéssel kapcsolatos fejezeteket és a konklúziót valamint lezárását a projektnek
 
-Az **email tárgya** ez legyen **fixen**: PROJM4-MK# ahol a # helyett 1 vagy 2 szerepeljen attól függően, hogy melyik mérföldkőről beszélünk. A csatolt mellékletet **.pdf-ben mindenképpen** küldjétek meg, opcionálisan docx-ben is jöhet.
+A csatolt mellékletet **.pdf-ben mindenképpen** küldjétek meg, opcionálisan docx-ben is jöhet.
 
-A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége emailben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, mintha féléves leadás lenne - az emaileket is eddig szeretném megkapni fixen.
+A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége üzenetben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, mintha féléves leadás lenne - az üzeneteket is eddig szeretném megkapni fixen.
 
 
 ---
@@ -26,8 +26,8 @@ A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valak
 Kérdés esetén keressetek.
 
 **Sipos Miklós**\
-Tanszéki Mérnök\
+Egyetemi tanársegéd\
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és –fejlesztés Intézet\
 sipos.miklos@nik.uni-obuda.hu\
-http://users.nik.uni-obuda.hu/siposm/
+https://nik.siposm.hu

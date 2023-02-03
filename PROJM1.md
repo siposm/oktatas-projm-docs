@@ -17,24 +17,24 @@ Ennek menete **jelen félévre** nézve annyi volna, hogy egy irodalomkutatást,
 - **követelmény specifikáció**: funkciók amelyeket elvársz a készítendő rendszertől (mire legyen képes)
 - **tervezés**: megtervezni a rendszer alapjait (pl. adatbázis, osztályok, komponensek stb.)
 
-A dolgozatnak ideálisan `20 oldalnak` kell lennie **a tartalom** tekintetében (tehát üres fél oldalnyi területek, méteres "térlopó" ábrák kerülendők). Javasolt, hogy irodalomjegyzéket már készítsetek, ha lehivatkozások konkrétan még nincsenek, legalább egy gyűjtemény legyen arról, hogy mit dolgoztatok fel (így később nektek is könnyebb lesz, amikor a lehivatkozásokat is meg kell tenni). Hasonlóan kell eljárni a képek esetén is. Wikipedia és egyéb helyekről copy-paste dolgokat mellőzzük ha egy mód van rá, javasolt helyette különböző könyveket és publikációkat preferálni. Ha valakinek esetleg kell egy-egy adott témába vágó konkrét könyv, keressen emailben. Ezek elsőre soknak tűnhetnek, viszont később szakd1-2 kapcsán hasznos lesz, hogy már van egy 80%-os alap amit "csak" le kell adni... Ha pedig más témátok lesz, akkor meg már 1x csináltatok hasonlót tehát könnyű lesz újra egy másik témát létrehozni hasonló módon.
+A dolgozatnak ideálisan `20 oldalnak` kell lennie **a tartalom** tekintetében (tehát üres fél oldalnyi területek, méteres "térlopó" ábrák kerülendők). Javasolt, hogy irodalomjegyzéket már készítsetek, ha lehivatkozások konkrétan még nincsenek, legalább egy gyűjtemény legyen arról, hogy mit dolgoztatok fel (így később nektek is könnyebb lesz, amikor a lehivatkozásokat is meg kell tenni). Hasonlóan kell eljárni a képek esetén is. Wikipedia és egyéb helyekről copy-paste dolgokat mellőzzük ha egy mód van rá, javasolt helyette különböző könyveket és publikációkat preferálni. Ha valakinek esetleg kell egy-egy adott témába vágó konkrét könyv, keressen emailben vagy Teams üzenetben. Ezek elsőre soknak tűnhetnek, viszont később szakd1-2 kapcsán hasznos lesz, hogy már van egy 80%-os alap amit "csak" le kell adni... Ha pedig más témátok lesz, akkor meg már 1x csináltatok hasonlót tehát könnyű lesz újra egy másik témát létrehozni hasonló módon.
 
 ## Mérföldkövek
 - **MK 1: 7. hét**: eddigre a `bevezető` rész készen kell legyen és az irodalomkutatás jól láthatóan elkezdett állapotban kell legyen
 - **MK 2: 10. hét**: eddigre az `irodalomkutatás` készen kell legyen
 - **MK 3: 13. hét**: eddigre a `követelmény specifikáció` és a `tervezés` is készen kell legyen, apró módosítások legyenek már csak hátra
 
-**Adott hét vasárnapjának 23:59-ig** szeretnék kapni egy doksit emailben amelyben látszik a haladás. A 13. hétnél már egy kb. végleges állapotot kellene látnom, ennek fényében osszátok be az időtöket.
+**Adott hét vasárnapjának 23:59-ig** szeretnék kapni egy doksit Teams üzenetben amelyben látszik a haladás. A 13. hétnél már egy kb. végleges állapotot kellene látnom, ennek fényében osszátok be az időtöket.
 
-Az **email tárgya** ez legyen **fixen**: PROJM1-MK# ahol a # helyett 1, 2 vagy 3 szerepeljen attól függően, hogy melyik mérföldkőről beszélünk. A csatolt mellékletet **.pdf-ben mindenképpen** küldjétek meg, opcionálisan docx-ben is jöhet.
+A csatolt mellékletet **.pdf-ben mindenképpen** küldjétek meg, opcionálisan docx-ben is jöhet.
 
 ---
 
-Kérdés / probléma esetén emailben elértek. Ha valaki a leírtak mentén nem tud önmagától dolgozni, akkor szintén kereshet és egyeztetünk időpontot, viszont fontos, hogy az önálló munka jellemezné ezt a tárgysorozatot elsősorban, tehát én nem fogok a mérföldköveknél többet tudni mondani, hiszen mindenkinek más témája és ritmusa van.
+Kérdés / probléma esetén emailben vagy Teams üzenetben elértek. Ha valaki a leírtak mentén nem tud önmagától dolgozni, akkor szintén kereshet és egyeztetünk időpontot, viszont fontos, hogy az önálló munka jellemezné ezt a tárgysorozatot elsősorban, tehát én nem fogok a mérföldköveknél többet tudni mondani, hiszen mindenkinek más témája és ritmusa van.
 
 **Sipos Miklós**\
-Tanszéki Mérnök\
+Egyetemi tanársegéd\
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és –fejlesztés Intézet\
 sipos.miklos@nik.uni-obuda.hu\
-http://users.nik.uni-obuda.hu/siposm/
+https://nik.siposm.hu
