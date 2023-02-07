@@ -8,7 +8,7 @@ A **Szoftvertervezés és -fejlesztés szakirányon** lévő Projektmunka I., II
 - Projektmunka III. tárgy útmutató és követelményrendszer: [link](https://github.com/siposm/oktatas-projm-docs/blob/master/PROJM3.md)
 - Projektmunka IV. tárgy útmutató és követelményrendszer: [link](https://github.com/siposm/oktatas-projm-docs/blob/master/PROJM4.md)
 - Projektmunkázók GitHub csoportja: [link](https://github.com/projektmunkazok-siposm)
-- Idevágó oktatói aloldalam: [link](https://users.nik.uni-obuda.hu/siposm/projm)
+- Idevágó oktatói aloldalam: [link](https://nik.siposm.hu/projm)
 
 <br>
 
