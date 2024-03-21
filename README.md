@@ -1,6 +1,6 @@
 # Projektmunkázó hallgatóimnak szóló anyagok
 
-A **Szoftvertervezés és -fejlesztés szakirányon** lévő Projektmunka I., II., III. és IV. tárgyakhoz tartozó útmutatók és követelmények repója, amelyek csak a hozzám tartozó hallgatókra vonatkoznak.
+A **Szoftvertervezés és -fejlesztés specializáción** lévő Projektmunka I., II., III. és IV. tárgyakhoz tartozó útmutatók és követelmények repója, amelyek csak a hozzám tartozó hallgatókra vonatkoznak.
 
 ### Tartalom
 - Projektmunka I. tárgy útmutató és követelményrendszer: [link](https://github.com/siposm/oktatas-projm-docs/blob/master/PROJM1.md)
