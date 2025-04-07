@@ -1,4 +1,5 @@
 # PROJM1 féléves menetrend és tematika
+
 Sziasztok,
 
 Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Projektmunka I.** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
@@ -8,18 +9,20 @@ Amit kell tudni, hogy ez egy **4 részes tárgy** lesz, viszont mellette be fog 
 Ennek menete **jelen félévre** nézve annyi volna, hogy egy irodalomkutatást, követelmény specifikációt valamint minimális tervezést kell készíteni, azzal a témával kapcsolatban amit választottatok. Ezt pedig `dokumentum`ban rögzítve kellene majd leadni a félév végén (ill. az adott mérföldkőnél).
 
 ## A leadandó dokumentumnak tartalmaznia kell
+
 - **bevezető**: probléma felvetése és megfogalmazása
 - **irodalomkutatás**: témába vágó kutatási témák feldolgozása
-    - hasonló rendszerek elemzése
-    - az egyes témák amelyek kapcsolódnak a témádhoz, sorra véve feldolgozva (ez mindenkinek a saját projekttémájától függ)
-    - felhasználni kívánt technológiák (c# / php / cpp / js / bármi)
-    - összegzés: átrágva magad a különböző tématerületeken és hasonló megvizsgált rendszereken, mire jutottál
+  - hasonló rendszerek elemzése
+  - az egyes témák amelyek kapcsolódnak a témádhoz, sorra véve feldolgozva (ez mindenkinek a saját projekttémájától függ)
+  - felhasználni kívánt technológiák (c# / php / cpp / js / bármi)
+  - összegzés: átrágva magad a különböző tématerületeken és hasonló megvizsgált rendszereken, mire jutottál
 - **követelmény specifikáció**: funkciók amelyeket elvársz a készítendő rendszertől (mire legyen képes)
 - **tervezés**: megtervezni a rendszer alapjait (pl. adatbázis, osztályok, komponensek stb.)
 
 A dolgozatnak ideálisan `20 oldalnak` kell lennie **a tartalom** tekintetében (tehát üres fél oldalnyi területek, méteres "térlopó" ábrák kerülendők). Javasolt, hogy irodalomjegyzéket már készítsetek, ha lehivatkozások konkrétan még nincsenek, legalább egy gyűjtemény legyen arról, hogy mit dolgoztatok fel (így később nektek is könnyebb lesz, amikor a lehivatkozásokat is meg kell tenni). Hasonlóan kell eljárni a képek esetén is. Wikipedia és egyéb helyekről copy-paste dolgokat mellőzzük ha egy mód van rá, javasolt helyette különböző könyveket és publikációkat preferálni. Ha valakinek esetleg kell egy-egy adott témába vágó konkrét könyv, keressen emailben vagy Teams üzenetben. Ezek elsőre soknak tűnhetnek, viszont később szakd1-2 kapcsán hasznos lesz, hogy már van egy 80%-os alap amit "csak" le kell adni... Ha pedig más témátok lesz, akkor meg már 1x csináltatok hasonlót tehát könnyű lesz újra egy másik témát létrehozni hasonló módon.
 
 ## Mérföldkövek
+
 - **MK 1: 7. hét**: eddigre a `bevezető` rész készen kell legyen és az irodalomkutatás jól láthatóan elkezdett állapotban kell legyen
 - **MK 2: 10. hét**: eddigre az `irodalomkutatás` készen kell legyen
 - **MK 3: 13. hét**: eddigre a `követelmény specifikáció` és a `tervezés` is készen kell legyen, apró módosítások legyenek már csak hátra
@@ -28,13 +31,15 @@ A dolgozatnak ideálisan `20 oldalnak` kell lennie **a tartalom** tekintetében 
 
 A csatolt mellékletet **.pdf-ben mindenképpen** küldjétek meg, opcionálisan docx-ben is jöhet.
 
----
-
 Kérdés / probléma esetén emailben vagy Teams üzenetben elértek. Ha valaki a leírtak mentén nem tud önmagától dolgozni, akkor szintén kereshet és egyeztetünk időpontot, viszont fontos, hogy az önálló munka jellemezné ezt a tárgysorozatot elsősorban, tehát én nem fogok a mérföldköveknél többet tudni mondani, hiszen mindenkinek más témája és ritmusa van.
+
+<br>
+
+---
 
 **Sipos Miklós**\
 Egyetemi tanársegéd\
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és –fejlesztés Intézet\
-sipos.miklos@nik.uni-obuda.hu\
-https://nik.siposm.hu
+<sipos.miklos@nik.uni-obuda.hu>\
+<https://nik.siposm.hu>

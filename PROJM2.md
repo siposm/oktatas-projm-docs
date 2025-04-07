@@ -1,4 +1,5 @@
 # PROJM2 féléves menetrend és tematika
+
 Sziasztok,
 
 Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 2** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
@@ -10,6 +11,7 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 2** t�
 A félév során **pár mérföldkövet** fogok tartani, ami azt jelenti, hogy ezen időpontokra szeretnék **inkrementumot** látni az előző mérföldkőbéli állapothoz képest. Erősen elvárt az önálló munka.
 
 ## Mérföldkövek
+
 - **MK 0: 2. hét**:
 A munkátok forráskódját verziókövetve GitHub-on kell majd kezelni. Ennek én fogok létrehozni egy megfelelő nevű repository-t és ehhez hozzá foglak adni developerként titeket. Ami ehhez szükséges: egy email címet vagy meglévő username-t írjatok nekem emailben/teams üzenetben. Csapat esetén mind a két féltől várnék egy azonosítót/email címet.
 
@@ -19,21 +21,21 @@ Ezen időpontra szeretnék egy `nagyjából működő` rendszert látni. Ez nyil
 - **MK 2: 12. hét**:
 Ezen időpontra szeretnék egy `közel kész` verziót látni a pilot stádiumból. Ekkor szeretném kérni, hogy készítsetek egy 3-5 perces videót amiben bemutatjátok, hogy mit csináltatok rövid magyarázattal alászinkronizálva. A kész videót Google Drive / YouTube vagy valamilyen más alternatíva segítségével küldjétek meg Teams üzenetben.
 
-
 ## További információk
+
 - A repóban a readme.md-ben helyezzétek el folyamatosan ahogy haladtok, hogy mit mire használtok (elég csak felsorolás szinten), az melyik mappában található stb. A lényeg, hogy én is el tudjak igazodni benne ha megnézem.
 
 - A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége Teams üzenetben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, mintha féléves leadás lenne - az eddig commitolt állapotokat fogom nézni.
 
 - A félévben nem elfogadható az, hogyha mérföldkő előtt 1 db commit-push kombót látok. Szeretném látni, hogy hétről hétre (de legalábbis többet mint pár nap) foglalkozva van az anyaggal. Ezt tekintsétek úgy, hogy a fix 2+1 mérföldkő mellett folyamatos mérföldkövek vannak.
 
----
+<br>
 
-Kérdés esetén keressetek.
+---
 
 **Sipos Miklós**\
 Egyetemi tanársegéd\
 Óbudai Egyetem Neumann János Informatikai Kar\
 Szoftvertervezés és –fejlesztés Intézet\
-sipos.miklos@nik.uni-obuda.hu\
-https://nik.siposm.hu
+<sipos.miklos@nik.uni-obuda.hu>\
+<https://nik.siposm.hu>
