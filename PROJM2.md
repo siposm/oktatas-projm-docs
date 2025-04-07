@@ -25,7 +25,7 @@ Ezen időpontra szeretnék egy **közel kész** verziót látni a pilot stádium
 
 - A repóban a `README.md`-ben helyezzétek el folyamatosan ahogy haladtok, hogy mit mire használtok (elég csak felsorolás szinten), az melyik mappában található stb. A lényeg, hogy én is el tudjak igazodni benne ha megnézem. Amennyiben a beüzemeléshez xy parancsokat ki kell adni, akkor azokat is írjátok le. Ez később majd szakdolgozatnál is fontos lesz, hogy a bíráló le tudja tesztelni az alkalmazást. Tehát ezzel munkát spóroltok meg ha most jól megcsináljátok, amit amúgy később úgyis meg kell csinálni.
 
-- A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége Teams üzenetben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59** percekor esedékes, előző félévhez hasonlóan.
+- A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége Teams üzenetben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59**-kor esedékes, előző félévhez hasonlóan, így eddig várom az üzeneteket.
 
 - A félévben nem elfogadható az, hogyha mérföldkő előtt 1 db commit megjelenik, benne egymillió módosítással! Szeretném látni, hogy hétről hétre (de legalábbis többet mint pár nap) foglalkozva van az anyaggal, mint egy valós fejlesztési projekt esetében. Ezt tekintsétek úgy, hogy a fix 2+1 mérföldkő mellett folyamatos mérföldkövek vannak.
 

@@ -35,7 +35,7 @@ A dolgozatnak ideálisan **20 oldalnak kell lennie a tartalom tekintetében** (t
 - **MK 2: 10. hét**: eddigre az **irodalomkutatás** készen kell legyen
 - **MK 3: 13. hét**: eddigre a **követelmény specifikáció** és a **tervezés** is készen kell legyen, apró módosítások legyenek már csak hátra
 
-**Adott hét vasárnapjának 23:59-ig** szeretnék kapni Teams üzenetet, amiben röviden vázlatpontosan soroljátok fel, hogy mivel haladtatok. Ez segít nekem gyorsan eligazodni, hogy most pontosan mit csináltatok és célirányosan azt nézni a dokumentumban.
+**Adott hét vasárnapjának 23:59**-ig szeretnék kapni Teams üzenetet, amiben röviden vázlatpontosan soroljátok fel, hogy mivel haladtatok. Ez segít nekem gyorsan eligazodni, hogy most pontosan mit csináltatok és célirányosan azt nézni a dokumentumban.
 
 ## Konzultáció
 
