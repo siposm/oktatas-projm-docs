@@ -1,45 +1,88 @@
-# PROJM1 féléves menetrend és tematika
+# SZPT féléves menetrend és tematika
 
 ## Általános
 
-Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Projektmunka I.** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
+Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Szoftverprojekt tervezése** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
 
-Amit kell tudni, hogy ez egy **4 részes tárgy** lesz, viszont mellette be fog jönni a **Szakdolgozat 1-2** tárgy is. A célja a Projektmunka tárgysorozatnak az volna, hogy dolgozzatok több féléven át egy nagyobb projekten, amiből **akár** a szakdoga is lehet (célszerű ugyan azt a témát vinni szakdolgozatra és ez az elvárt is egyben). Tehát célszerű volna, hogyha már úgy állnátok az egészhez, mintha szakdoga lenne (ergó nem egy összecsapott munkát adtok le). Ha valaki úgy gondolja, hogy később Szakdolgozatnak mást szeretne leadni, erre is van lehetőség de akkor az dupla munkát fog jelenteni, hiszen két témán kell majdnem párhuzamosan dolgozni.
+### A tárgysorozat célja
 
-Ennek menete **jelen félévre** nézve annyi volna, hogy egy irodalomkutatást, követelmény specifikációt valamint minimális tervezést kell készíteni, azzal a témával kapcsolatban amit választottatok. Ezt pedig **dokumentumban rögzítve** kellene majd leadni a félév végén (ill. az adott mérföldkőnél).
+A projektmunka egy **tárgysorozat**, amely mellé még a szakdolgozat is be fog csatlakozni. A célja a projektmunka tárgysorozatnak az volna, hogy dolgozzatok több féléven át egy nagyobb projekten, amiből akár szakdolgozat is válhat.
 
-## Dokumentum
+Mivel több féléven át tart a munka, így lehetőség van minden részt alaposan kidolgozni, így a végső munka minősége várhatóan magas lesz. Már most érdemes szakdolgozathoz megfelelő hozzáállással dolgozni, mert később a most belefektetett munka meg fogja hálálni magát.
 
-Mindenki hozzon létre egy OneDrive-os Word dokumentumot és ossza meg velem. Így erre bármikor rá tudok nézni, illetve szükség esetén adott részhez kommentet is tudok fűzni. Ebbe a dokumentumba dolgozzatok majd végig. Word helyett használható még LaTeX is, ez esetben Overleaf-en keresztül dolgozzatok és az ottani dokumentumot osszátok meg velem linken keresztül. Mind a kettő esetén legyen jogom szerkeszteni is.
+Ha valaki úgy gondolja, hogy később szakdolgozatnak más témát szeretne választani, erre is van lehetőség de akkor az dupla munkát fog jelenteni, hiszen két témán kell majdnem párhuzamosan dolgozni.
 
-### Fejezetek
+**E-tanterv** esetén a tárgyak így követik egymást:
 
-A leadandó dokumentumnak tartalmaznia kell a következő fejezeteket és azok kifejtését:
+| Félév    | Tárgy                | Tárgy                 |
+| -------- | -------------------- | --------------------- |
+| 1. félév | Projektmunka 1 [PM1] |                       |
+| 2. félév | Projektmunka 2 [PM2] |                       |
+| 3. félév | Projektmunka 3 [PM3] | Szakdolgozat 1 [SZD1] |
+| 4. félév | Projektmunka 4 [PM4] | Szakdolgozat 2 [SZD2] |
 
-- **bevezető**: probléma felvetése és megfogalmazása
-- **irodalomkutatás**: témába vágó kutatási témák feldolgozása, melynek alrészei:
-  - hasonló rendszerek elemzése
-  - az egyes témák amelyek kapcsolódnak a témádhoz, sorra véve feldolgozva (ez mindenkinek a saját projekttémájától függ)
-  - felhasználni kívánt technológiák (c# / php / cpp / js / bármi)
-  - összegzés: átrágva magad a különböző tématerületeken és hasonló megvizsgált rendszereken, mire jutottál
-- **követelmény specifikáció**: funkciók amelyeket elvársz a készítendő rendszertől (mire legyen képes)
-- **tervezés**: megtervezni a rendszer alapjait (pl. adatbázis, osztályok, komponensek, architektúra stb.)
+**F-tanterv** esetén a tárgyak így követik egymást:
+
+| Félév    | Tárgy                            | Tárgy              |
+| -------- | -------------------------------- | ------------------ |
+| 1. félév | Szoftverprojekt tervezése [SZPT] |                    |
+| 2. félév | Projektmunka 1 [PM1]             |                    |
+| 3. félév | Projektmunka 2 [PM2]             |                    |
+| 4. félév | Projektmunka 3 [PM3]             | Szakdolgozat [SZD] |
+
+> [!NOTE]
+> Látható, hogy F tanterv esetén a szakdolgozat már csak egy féléves. A projektmunka pedig hivatalosan a mérnökinformatikus tantervben csak PM1 és PM2 tárgyat jelent, a PM3 egy kötvál tárgyként fog megjelenni, csak úgy, mint az SZPT tárgy is. Ez utóbbi kettő azt a célt, szolgálja, hogy méginkább kiforrott és magas minőségű munka tudjon születni.
+
+## Félévi követelmények
+
+A félév tartalmi követelménye egy ~25 oldalas dokumentum létrehozása, amely a következő fejezeteket és a hozzájuk tartozó témaköröket tartalmazza megfelelő mélységig kidolgozva.
+
+**Bevezető**
+
+A probléma bemutatása, kitérve arra is, hogy ez miért fontos, releváns-e napjainkban, van-e már megoldás rá (ha igen, röviden bemutatni, hogy azzal mi a baj és miért szeretnénk egy új megoldást). Ha van személyes motiváció, akkor az is megemlíthető.
+
+**Hasonló rendszerek**
+
+Ennek a fejezetnek a célja, hogy feldolgozásra kerüljenek olyan már meglévő eszközök / alkalmazások / algoritmusok / stb. amelyek hasonlítanak ahhoz, amit csinálni szeretnétek. Ez gyakorlatilag egy piackutatás, minek keretein belül inspirálódni lehet, hogy mit szeretne az ember és mit nem szeretne a saját rendszerében.
+
+**Irodalomkutatás**
+
+Ennek a fejezetnek a célja, hogy további olyan témák feldolgozásra kerüljenek amelyek szükségesek a cél eléréséhez. Mivel mindenkinek más a témája, ezért fix megkötés nincs. Lehet írni pl. használandó nyelvekről, keretrendszerekről, algoritmusokról, módszertanokról stb.
+
+**Követelmény specifikáció**
+
+A rendszerrel szemben támasztott pontos, alaposan átgondolt követelményeket meg kell tudni határozni és le kell tudni írni, ez tekinthető egy szerződésnek is, ahol kimondásra kerül, hogy miket várunk el az adott készítendő rendszertől.
+
+**Tervezés**
+
+Pontosan és részletesen meg kell tudni tervezni, hogy a készítendő rendszer milyen alkotóelemekből / komponensekből / alrendszerekből fog felépülni, ezek hol és hogyan fognak kommunikálni egymással (ha kell), milyen eszközök / keretrendszerek lesznek használva, milyen algoritmusokkal lesznek bizonyos funkciók elérve. A tervezésben lehet beszélni az adatbázisról, adatmodellekről, architektúráról, keretrendszerekről, libekről stb.
+
+### Dokumentum
+
+Mindenki hozzon létre egy OneDrive-os Word dokumentumot és ossza meg velem. Így erre bármikor rá tudok nézni, illetve szükség esetén adott részhez kommentet is tudok fűzni, esetleg beleírni. Ebbe a dokumentumba dolgozzatok majd végig. Word helyett használható még LaTeX is, ez esetben Overleaf-en keresztül dolgozzatok és az ottani dokumentumot osszátok meg velem linken keresztül. Mind a kettő esetén kérem, hogy legyen jogom szerkeszteni is.
 
 ### Terjedelmi és tartalmi elvárások
 
-A dolgozatnak ideálisan **20 oldalnak kell lennie a tartalom tekintetében** (tehát üres fél oldalnyi területek, méteres "térlopó" ábrák kerülendők). Javasolt, hogy irodalomjegyzéket már készítsetek, ha lehivatkozások konkrétan még nincsenek, legalább egy gyűjtemény legyen arról, hogy mit dolgoztatok fel (így később nektek is könnyebb lesz, amikor a lehivatkozásokat is meg kell tenni). Hasonlóan kell eljárni a képek esetén is. Wikipedia és egyéb helyekről copy-paste dolgokat mellőzzük ha egy mód van rá, javasolt helyette különböző könyveket és publikációkat preferálni. Ha valakinek esetleg kell egy-egy adott témába vágó konkrét könyv, keressen emailben vagy Teams üzenetben, hátha tudok segíteni megtalálni. Ezek elsőre soknak tűnhetnek, viszont később szakd1-2 kapcsán hasznos lesz, hogy már van egy 80%-os alap amit "csak" le kell adni. Ha pedig más témátok lesz, akkor meg már 1x csináltatok hasonlót tehát könnyű lesz újra egy másik témát létrehozni hasonló módon.
+...work in progress...
+
+<!-- TODO: irodalomjegyzék? várom a választ -->
+<!-- A dolgozatnak ideálisan **20 oldalnak kell lennie a tartalom tekintetében** (tehát üres fél oldalnyi területek, méteres "térlopó" ábrák kerülendők). Javasolt, hogy irodalomjegyzéket már készítsetek, ha lehivatkozások konkrétan még nincsenek, legalább egy gyűjtemény legyen arról, hogy mit dolgoztatok fel (így később nektek is könnyebb lesz, amikor a lehivatkozásokat is meg kell tenni). Hasonlóan kell eljárni a képek esetén is. Wikipedia és egyéb helyekről copy-paste dolgokat mellőzzük ha egy mód van rá, javasolt helyette különböző könyveket és publikációkat preferálni. Ha valakinek esetleg kell egy-egy adott témába vágó konkrét könyv, keressen emailben vagy Teams üzenetben, hátha tudok segíteni megtalálni. Ezek elsőre soknak tűnhetnek, viszont később szakd1-2 kapcsán hasznos lesz, hogy már van egy 80%-os alap amit "csak" le kell adni. Ha pedig más témátok lesz, akkor meg már 1x csináltatok hasonlót tehát könnyű lesz újra egy másik témát létrehozni hasonló módon. -->
+
+<!-- TODO: "téma jelentkező" doksit valahogy beleírni -->
 
 ## Mérföldkövek
 
-- **MK 1: 7. hét**: eddigre a **bevezető** rész készen kell legyen és az irodalomkutatás jól láthatóan elkezdett állapotban kell legyen
-- **MK 2: 10. hét**: eddigre az **irodalomkutatás** készen kell legyen
-- **MK 3: 13. hét**: eddigre a **követelmény specifikáció** és a **tervezés** is készen kell legyen, apró módosítások legyenek már csak hátra
+<!-- TODO: 1. MK kuka, hiszen addigra értékeljük le őket -->
+<!-- TODO: sanyo választ várok, mi a deadline -->
+- **MK 1: 9. hét**: bevezetés kész, hasonló rendszerek kész
+- **MK 2: 12. hét**: irodalomkutatás kész
+- **MK 3: 13. hét**: követelmény specifikáció kész, tervezés kész
 
-**Adott hét vasárnapjának 23:59**-ig szeretnék kapni Teams üzenetet, amiben röviden vázlatpontosan soroljátok fel, hogy mivel haladtatok. Ez segít nekem gyorsan eligazodni, hogy most pontosan mit csináltatok és célirányosan azt nézni a dokumentumban.
+**Adott hét vasárnapjának 23:59**-ig szeretnék kapni Teams üzenetet, amiben röviden vázlatpontosan legyen felsorolva, hogy mi a változás / inkrementum. Ez segít nekem gyorsan eligazodni, hogy most pontosan mit csináltatok és célirányosan azt nézni a dokumentumban.
 
 ## Konzultáció
 
-Kérdés / probléma esetén emailben vagy Teams üzenetben elértek. Amennyiben valaki elakad, elveszik a témában akkor szintén kereshet, egyeztetünk időpontot és segítek az elakadáson túljutni. Fontos viszont, hogy az önálló munka jellemezné ezt a tárgysorozatot elsősorban, hiszen mindenkinek más témája és ritmusa van.
+Kérdés vagy probléma esetén emailben vagy Teams üzenetben elértek. Amennyiben valaki elakad, elveszik a témában akkor szintén kereshet, egyeztetünk időpontot és segítek az elakadáson túljutni. Fontos viszont, hogy az önálló munka jellemezné ezt a tárgysorozatot elsősorban, hiszen mindenkinek más témája és ritmusa van.
 
 <br>
 
