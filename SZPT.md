@@ -31,7 +31,7 @@ Ha valaki úgy gondolja, hogy később szakdolgozatnak más témát szeretne vá
 | 4. félév | Projektmunka 3 [PM3]             | Szakdolgozat [SZD] |
 
 > [!NOTE]
-> Látható, hogy F tanterv esetén a szakdolgozat már csak egy féléves. A projektmunka pedig hivatalosan a mérnökinformatikus tantervben csak PM1 és PM2 tárgyat jelent, a PM3 egy kötvál tárgyként fog megjelenni, csak úgy, mint az SZPT tárgy is. Ez utóbbi kettő azt a célt, szolgálja, hogy méginkább kiforrott és magas minőségű munka tudjon születni.
+> F-tanterv esetén a szakdolgozat már csak egy féléves. A projektmunka pedig hivatalosan a mérnökinformatikus tantervben csak PM1 és PM2 tárgyat jelent, a PM3 egy kötvál tárgyként fog megjelenni, csak úgy, mint az SZPT tárgy is. Ez utóbbi kettő azt a célt, szolgálja, hogy méginkább kiforrott és magas minőségű munka tudjon születni.
 
 ## Félévi követelmények
 
