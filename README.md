@@ -1,15 +1,24 @@
-# Projektmunkázó hallgatóimnak szóló anyagok
+## Projektmunkázó hallgatóimnak szóló anyagaim
 
-A **Szoftvertervezés és -fejlesztés specializáción** lévő Projektmunka I., II., III. és IV. tárgyakhoz tartozó útmutatók és követelmények repója, amelyek csak a hozzám tartozó hallgatókra vonatkoznak.
+A **Szoftvertervezés és -fejlesztés specializáción** lévő projektmunka tárgysorozathoz tartozó útmutatók és követelmények repója, amelyek csak a hozzám tartozó hallgatókra vonatkoznak.
 
-## Tartalom
+> [!IMPORTANT]
+> Figyelem, jelen leírások frissültek az F-tantervnek megfelelően!
 
-- [Projektmunka I. tárgy útmutató és követelményrendszer](https://github.com/siposm/oktatas-projm-docs/blob/master/PROJM1.md)
-- [Projektmunka II. tárgy útmutató és követelményrendszer](https://github.com/siposm/oktatas-projm-docs/blob/master/PROJM2.md)
-- [Projektmunka III. tárgy útmutató és követelményrendszer](https://github.com/siposm/oktatas-projm-docs/blob/master/PROJM3.md)
-- [Projektmunka IV. tárgy útmutató és követelményrendszer](https://github.com/siposm/oktatas-projm-docs/blob/master/PROJM4.md)
+### Tárgyakhoz tartozó leírások
+
+| Félév    | Tárgy                            | Tárgy              |
+| -------- | -------------------------------- | ------------------ |
+| 1. félév | [Szoftverprojekt tervezése](./SZPT.md)  |                    |
+| 2. félév | [Projektmunka 1.](./PM1.md)             |                    |
+| 3. félév | [Projektmunka 2.](./PM2.md)             |                    |
+| 4. félév | [Projektmunka 3.](./PM3.md)             | [Szakdolgozat](https://github.com/siposm/oktatas-szakd-docs) |
+
+### További hasznos linkek
+
 - [Projektmunkázók GitHub csoportja](https://github.com/projektmunkazok-siposm)
-- [Idevágó oktatói aloldalam](https://nik.siposm.hu/projm)
+- [Projektmunkával kapcsolatos oktatói oldalam](https://nik.siposm.hu/projm)
+- [Szakdolgozattal kapcsolatos oktatói oldalam](https://nik.siposm.hu/szakd)
 
 <br>
 
