@@ -1,7 +1,5 @@
 ## SZPT féléves menetrend és tematika
 
-## Általános
-
 Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Szoftverprojekt tervezése** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
 
 ## A tárgysorozat célja
@@ -37,24 +35,19 @@ Ha valaki úgy gondolja, hogy később szakdolgozatnak más témát szeretne vá
 
 A félév tartalmi követelménye egy ~25 oldalas dokumentum létrehozása, amely a következő fejezeteket és a hozzájuk tartozó témaköröket tartalmazza megfelelő mélységig kidolgozva.
 
-**Bevezető**
-
+**Bevezető**  
 A probléma bemutatása, kitérve arra is, hogy ez miért fontos, releváns-e napjainkban, van-e már megoldás rá (ha igen, röviden bemutatni, hogy azzal mi a baj és miért szeretnénk egy új megoldást). Ha van személyes motiváció, akkor az is megemlíthető.
 
-**Hasonló rendszerek**
-
+**Hasonló rendszerek**  
 Ennek a fejezetnek a célja, hogy feldolgozásra kerüljenek olyan már meglévő eszközök / alkalmazások / algoritmusok / stb. amelyek hasonlítanak ahhoz, amit csinálni szeretnétek. Ez gyakorlatilag egy piackutatás, minek keretein belül inspirálódni lehet, hogy mit szeretne az ember és mit nem szeretne a saját rendszerében.
 
-**Irodalomkutatás**
-
+**Irodalomkutatás**  
 Ennek a fejezetnek a célja, hogy további olyan témák feldolgozásra kerüljenek amelyek szükségesek a cél eléréséhez. Mivel mindenkinek más a témája, ezért fix megkötés nincs. Lehet írni pl. használandó nyelvekről, keretrendszerekről, algoritmusokról, módszertanokról stb.
 
-**Követelmény specifikáció**
-
+**Követelmény specifikáció**  
 A rendszerrel szemben támasztott pontos, alaposan átgondolt követelményeket meg kell tudni határozni és le kell tudni írni, ez tekinthető egy szerződésnek is, ahol kimondásra kerül, hogy miket várunk el az adott készítendő rendszertől.
 
-**Tervezés**
-
+**Tervezés**  
 Pontosan és részletesen meg kell tudni tervezni, hogy a készítendő rendszer milyen alkotóelemekből / komponensekből / alrendszerekből fog felépülni, ezek hol és hogyan fognak kommunikálni egymással (ha kell), milyen eszközök / keretrendszerek lesznek használva, milyen algoritmusokkal lesznek bizonyos funkciók elérve. A tervezésben lehet beszélni az adatbázisról, adatmodellekről, architektúráról, keretrendszerekről, libekről stb.
 
 ### Dokumentum

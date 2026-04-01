@@ -1,33 +1,65 @@
-# PROJM2 féléves menetrend és tematika
+## PM1 féléves menetrend és tematika
 
-## Általános
+Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 1** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
 
-Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 2** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
+## Előző félév
 
-**PM1** kapcsán a **félév végére egy dokumentum készült**, amiben felvázoltátok, hogy mit szeretnétek. Ha és amennyiben ez nem lett megfelelően kidolgozott, akkor előfordulhatnak olyan hiányosságok amik a későbbiekben is visszaüthetnek (pl. nem megfelelő tervezés, rossz helyzetfelmérés, hiányos problémaelemzés stb.). Így javasolt lenne *--akinél ez a helyzet áll fenn--*, hogy picit járjon még utána a témának és foglalkozzon vele.
+**SZPT** kapcsán a **félév végére egy dokumentum készült**, amiben megfelelő kutatást követően felvázoltátok, hogy mit szeretnétek csinálni. Ha és amennyiben ez nem lett megfelelően kidolgozott, akkor előfordulhatnak olyan hiányosságok amik a későbbiekben is visszaüthetnek (pl. nem megfelelő tervezés, rossz helyzetfelmérés, hiányos problémaelemzés stb.). Így javasolt lenne *- akinél ez a helyzet áll fenn -*, hogy picit járjon még utána a témának és foglalkozzon vele.
 
-**PM2** kapcsán már a **fejlesztést kellene elkezdeni**, és a félév végére egy **pilot** állapothoz eljutni. Pilot állapot alatt azt értjük, hogy a projekt lényege, "core funkciója" működjön, nem baj ha nincs még tökéletes GUI, nem baj ha nincs még adatbázis, itt-ott bugok még lehetnek, de a fő rész funkcionálisan már működjön.
+## Aktuális félév
 
-A félév során szintén lesznek mérföldkövek, ami azt jelenti, hogy ezen időpontokra szeretnék **inkrementumot** látni az előző mérföldkőbéli állapothoz képest.
+**PM2** kapcsán már a **fejlesztést kellene elkezdeni**, és a félév végére egy ún. **pilot** állapothoz eljutni. Pilot állapot alatt azt értjük, hogy a projekt lényege, "core funkciója" működjön, nem baj ha nincs még tökéletes GUI, nem baj ha nincs még adatbázis, itt-ott bugok még lehetnek, de a fő rész funkcionálisan már működjön. Ez azért is fontos, mert itt ki tud derülni, ha a tervezési fázisban kigondolt módszer / eszköz / stb. mégsem használható megfelelően. Amennyiben ez történne, természetesen keresni kell olyan másik megoldást ami a végső cél elérésében használható.
+
+A félév során szintén lesznek mérföldkövek, ami azt jelenti, hogy ezen időpontokra szeretnék **inkrementumot** látni az előző mérföldkőbéli állapothoz képest. A fejlesztés mellett a dokumentummal is kell haladni.
+
+A félév feladatai időrendi sorrendben:
+
+- **Pilot alkalmazás elkészítése**: a feladat core részét le kell fejleszteni
+- **Tesztelés**: az elkészült rendszert le kell tesztelni változatosan, a végső használnak megfelelően
+- **Elsődleges eredmények dokumentálása**: a dokumentumban rögzíteni kell, hogy
+  - mi készült el (hol áll most a feladat)
+  - milyen eszközökkel készült el
+  - ha volt valamilyen változás a tervhez képest, akkor miért és mi-mire változott
+  - mit sikerült elérni, azaz a konkrét eredmények bemutatása
+- **Megvalósíthatóság vizsgálata**: a végső célkitűzés a jelenlegi állapot alapján elérhető-e a tervezett eszközökkel és módon
+- **Módosítások tervezése**: amennyiben módosítani szükséges, min és mit kell módosítani
 
 ## Mérföldkövek
 
-- **MK 0: 2. hét**:
-A munkátok forráskódját verziókövetve GitHub-on kell majd kezelni. Ennek én fogok létrehozni egy megfelelő nevű repository-t és ehhez hozzá foglak adni titeket. Ehhez kérem, hogy GitHub-ra regisztráljatok be és a username-t Teams üzenetben írjátok meg nekem. Csapat esetén mind a két féltől várnék egy username-t.
+**MK 0: 2. hét**:  
+A munkátok forráskódját verziókövetve GitHub-on kell majd kezelni. Ennek én fogok létrehozni egy megfelelő nevű repository-t és ehhez hozzá foglak adni titeket. Ehhez kérem, hogy GitHub-ra regisztráljatok be és a username-t Teams üzenetben írjátok meg nekem.
 
-- **MK 1: 6. hét**:
-Ezen időpontra szeretnék egy **nagyjából működő** rendszert látni. Ez nyilván feladattól is függ, ahol a komplexitás meghatározó tényező; de a lényeg, hogy körvonalazódjon, hogy mi lesz ebből. A mérföldkőkor szeretném ha küldenétek egy Teams üzenetet, leírva benne felsorolás szinten azt, hogy: 1) mi van kész, mit csináltál az előző mérföldkő óta, 2) mi nincs kész, 3) milyen problémákba ütköztél, 4) mivel fogod folytatni.
+**MK 1: 6. hét**:  
+Ezen időpontra szeretnék egy **nagyjából működő** rendszert látni. Ez nyilván feladattól is függ, ahol a komplexitás meghatározó tényező; de a lényeg, hogy körvonalazódjon, hogy mi lesz ebből.
 
-- **MK 2: 12. hét**:
-Ezen időpontra szeretnék egy **közel kész** verziót látni a pilot stádiumból. Ekkor szeretném kérni, hogy készítsetek egy 5-7 perces videót amiben bemutatjátok, hogy mit csináltatok rövid magyarázattal narrálva. A kész videót YouTube videóként feltöltve küldjétek meg Teams üzenetben.
+**MK 2: 12. hét**:  
+Ezen időpontra szeretnék egy **szinte kész** verziót látni a pilot rendszerből.
 
-## További információk
+Az egyes mérföldkövek határidejei az előző félévhez hasonló, **adott szorgalmi hét vasárnapjának vége 23:59**. Az 1. és 2. mérföldkőkor szeretném ha küldenétek egy Teams üzenetet, leírva benne felsorolás szinten azt, hogy:
 
-- A repóban a `README.md`-ben helyezzétek el folyamatosan ahogy haladtok, hogy mit mire használtok (elég csak felsorolás szinten), az melyik mappában található stb. A lényeg, hogy én is el tudjak igazodni benne ha megnézem. Amennyiben a beüzemeléshez xy parancsokat ki kell adni, akkor azokat is írjátok le. Ez később majd szakdolgozatnál is fontos lesz, hogy a bíráló le tudja tesztelni az alkalmazást. Tehát ezzel munkát spóroltok meg ha most jól megcsináljátok, amit amúgy később úgyis meg kell csinálni.
+1. mi van kész, mit csináltál az előző mérföldkő óta
+1. mi nincs kész
+1. milyen problémákba ütköztél
+1. mivel fogod folytatni
 
-- A mérföldkövek esetén személyesen egyeztetni nem lesz szükséges, ha valakinek ilyenre lenne szüksége Teams üzenetben keressen és egyeztetünk konzultációs időpontot. Ettől függetlenül viszont az egyes mérföldkövek "lejárata" **adott hét vasárnapjának 23:59**-kor esedékes, előző félévhez hasonlóan, így eddig várom az üzeneteket.
+## Repository kezelése
 
-- A félévben nem elfogadható az, hogyha mérföldkő előtt 1 db commit megjelenik, benne egymillió módosítással! Szeretném látni, hogy hétről hétre (de legalábbis többet mint pár nap) foglalkozva van az anyaggal, mint egy valós fejlesztési projekt esetében. Ezt tekintsétek úgy, hogy a fix 2+1 mérföldkő mellett folyamatos mérföldkövek vannak.
+A repóban a `README.md`-ben helyezzétek el folyamatosan ahogy haladtok, hogy mit mire használtok (elég csak felsorolás szinten), az melyik mappában található stb. A lényeg, hogy én is el tudjak igazodni benne ha megnézem. Amennyiben a beüzemeléshez xy parancsokat ki kell adni, akkor azokat is írjátok le. Ez később majd szakdolgozatnál is fontos lesz, hogy a bíráló le tudja tesztelni az alkalmazást. Tehát ezzel munkát spóroltok meg ha most jól megcsináljátok, amit amúgy később úgyis meg kell csinálni. Érdemes ide az egyes használt eszközök verzióit is rögzíteni.
+
+A félévben nem elfogadható az, hogyha mérföldkő előtt 1 db commit megjelenik, benne egymillió módosítással! Szeretném látni, hogy hétről hétre (de legalábbis többet mint pár nap) foglalkozva van az anyaggal, **mint egy valós fejlesztési projekt esetében**. Ezt tekintsétek úgy, hogy a fix 2+1 mérföldkő mellett folyamatos mérföldkövek vannak.
+
+<!-- !TODO
+    értékelés 2 oktató + saját témavezető
+    form, szempontok
+    leadás doksi + videó
+-->
+## Értékelés és határidő
+
+asdasd
+
+## Konzultáció
+
+Kérdés vagy probléma esetén emailben vagy Teams üzenetben elértek. Amennyiben valaki elakad, elveszik a témában akkor szintén kereshet, egyeztetünk időpontot és segítek az elakadáson túljutni. Fontos viszont, hogy az önálló munka jellemezné ezt a tárgysorozatot elsősorban, hiszen mindenkinek más témája és ritmusa van.
 
 <br>
 
