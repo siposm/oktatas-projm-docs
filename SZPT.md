@@ -1,10 +1,10 @@
 ## SZPT féléves menetrend és tematika
 
-### Általános
+## Általános
 
 Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Szoftverprojekt tervezése** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
 
-### A tárgysorozat célja
+## A tárgysorozat célja
 
 A projektmunka egy **tárgysorozat**, amely mellé még a szakdolgozat is be fog csatlakozni. A célja a projektmunka tárgysorozatnak az volna, hogy dolgozzatok több féléven át egy nagyobb projekten, amiből akár szakdolgozat is válhat.
 
