@@ -1,6 +1,6 @@
-# SZPT féléves menetrend és tematika
+## SZPT féléves menetrend és tematika
 
-## Általános
+### Általános
 
 Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Szoftverprojekt tervezése** tárgy keretein belül miket kellene csinálni, így kérlek olvassátok el alaposan jelen leírást és az abban foglaltaknak megfelelően járjatok el!
 
@@ -59,26 +59,29 @@ Pontosan és részletesen meg kell tudni tervezni, hogy a készítendő rendszer
 
 ### Dokumentum
 
-Mindenki hozzon létre egy OneDrive-os Word dokumentumot és ossza meg velem. Így erre bármikor rá tudok nézni, illetve szükség esetén adott részhez kommentet is tudok fűzni, esetleg beleírni. Ebbe a dokumentumba dolgozzatok majd végig. Word helyett használható még LaTeX is, ez esetben Overleaf-en keresztül dolgozzatok és az ottani dokumentumot osszátok meg velem linken keresztül. Mind a kettő esetén kérem, hogy legyen jogom szerkeszteni is.
+Mindenki hozzon létre egy OneDrive-os Word dokumentumot és ossza meg velem linken keresztül. Így erre bármikor rá tudok nézni, illetve szükség esetén adott részhez kommentet is tudok fűzni, esetleg beleírni. Ebbe a dokumentumba dolgozzatok majd végig. Word helyett használható még LaTeX is, ez esetben Overleaf-en keresztül dolgozzatok és az ottani dokumentumot osszátok meg velem linken keresztül. Mind a kettő esetén kérem, hogy legyen jogom szerkeszteni is.
 
-### Terjedelmi és tartalmi elvárások
+### Formai, terjedelmi és tartalmi elvárások
 
-...work in progress...
+Terjedelem tekintetében a 25 oldalt releváns tartalommal kell megtölteni, ebbe alapvetően az ábrák, táblázatok is beleszámítanak, nem csak a folyószöveg; viszont fontos figyelni arra, hogy ábrák akkor legyenek használva amikor azok indokoltak. Ökölszabály, ha valamit le lehet írni rövidebben, mint amekkora helyet az ábra elfoglal, akkor ott vélhetően rossz választás az ábra használata.
 
-<!-- TODO: irodalomjegyzék? várom a választ -->
-<!-- A dolgozatnak ideálisan **20 oldalnak kell lennie a tartalom tekintetében** (tehát üres fél oldalnyi területek, méteres "térlopó" ábrák kerülendők). Javasolt, hogy irodalomjegyzéket már készítsetek, ha lehivatkozások konkrétan még nincsenek, legalább egy gyűjtemény legyen arról, hogy mit dolgoztatok fel (így később nektek is könnyebb lesz, amikor a lehivatkozásokat is meg kell tenni). Hasonlóan kell eljárni a képek esetén is. Wikipedia és egyéb helyekről copy-paste dolgokat mellőzzük ha egy mód van rá, javasolt helyette különböző könyveket és publikációkat preferálni. Ha valakinek esetleg kell egy-egy adott témába vágó konkrét könyv, keressen emailben vagy Teams üzenetben, hátha tudok segíteni megtalálni. Ezek elsőre soknak tűnhetnek, viszont később szakd1-2 kapcsán hasznos lesz, hogy már van egy 80%-os alap amit "csak" le kell adni. Ha pedig más témátok lesz, akkor meg már 1x csináltatok hasonlót tehát könnyű lesz újra egy másik témát létrehozni hasonló módon. -->
+Formai elvárások vonatkozásában a félév eleji előadáson minden ide vonatkozó információ elhangzik. Alapvetően sablon nincs, viszont van néhány dolog amit már most követni kell (alábbi lista); később a szakdolgozatnál ez ismét előnyt fog jelenteni. Érdemes a témajelentkezéskor leadott dokumentumot folytatni és azt bővíteni.
 
-<!-- TODO: "téma jelentkező" doksit valahogy beleírni -->
+- irodalmi hivatkozások használata elvárt
+- preferálni kell a hivatalos forrásokat (publikációk, cikkek, közlemények, hivatalos tájékoztatók) szemben a netes fórum linkekkel
+- képek lehivatkozása és forrásmegjelölés elvárt
 
 ## Mérföldkövek
 
-<!-- TODO: 1. MK kuka, hiszen addigra értékeljük le őket -->
-<!-- TODO: sanyo választ várok, mi a deadline -->
-- **MK 1: 9. hét**: bevezetés kész, hasonló rendszerek kész
+- **MK 1: 09. hét**: bevezetés kész, hasonló rendszerek kész
 - **MK 2: 12. hét**: irodalomkutatás kész
 - **MK 3: 13. hét**: követelmény specifikáció kész, tervezés kész
 
 **Adott hét vasárnapjának 23:59**-ig szeretnék kapni Teams üzenetet, amiben röviden vázlatpontosan legyen felsorolva, hogy mi a változás / inkrementum. Ez segít nekem gyorsan eligazodni, hogy most pontosan mit csináltatok és célirányosan azt nézni a dokumentumban.
+
+## Értékelés és határidő
+
+A dokumentumot az elvárások mentén legkésőbb az utolsó mérföldkőig el kell készíteni, az oktatónak az utolsó szorgalmi hét végén jegyet kell adnia. Elégtelen esetén a vizsgaidőszakban meghirdetett pótlási lehetőségen lehet javítani. A leadott kész munkát a témavezető oktató értékeli.
 
 ## Konzultáció
 
