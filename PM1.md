@@ -8,7 +8,7 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben **Projektmunka 1** t�
 
 ## Aktuális félév
 
-**PM2** kapcsán már a **fejlesztést kellene elkezdeni**, és a félév végére egy ún. **pilot** állapothoz eljutni. Ez azért is fontos, mert itt ki tud derülni, ha a tervezési fázisban kigondolt módszer / eszköz / stb. mégsem használható megfelelően. Amennyiben ez történne, természetesen keresni kell olyan másik megoldást ami a végső cél elérésében használható.
+**PM1** kapcsán már a **fejlesztést kellene elkezdeni**, és a félév végére egy ún. **pilot** állapothoz eljutni. Ez azért is fontos, mert itt ki tud derülni, ha a tervezési fázisban kigondolt módszer / eszköz / stb. mégsem használható megfelelően. Amennyiben ez történne, természetesen keresni kell olyan másik megoldást ami a végső cél elérésében használható.
 
 > [!NOTE]
 > Pilot állapot alatt azt értjük, hogy a projekt lényegi része, "core funkciója" működjön. Nem baj ha nincs még tökéletes GUI, nem baj ha nincs még adatbázis, itt-ott bugok még lehetnek, de a **fő rész** funkcionálisan már működjön.
