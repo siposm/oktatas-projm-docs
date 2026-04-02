@@ -36,8 +36,15 @@ Az egyes mérföldkövek határidejei az előző félévhez hasonló, **adott sz
 - min dolgoztok jelenleg
 - mik a kilátások a továbbhaladás / befejezés tekintetében
 
+> [!NOTE]
+> A dokumentációt a korábban létrehozott és megosztott dokumentumban kell folytatni. Kérem, amennyiben ebben van változás adott MK esetén, ezt is röviden jelezzétek az üzenetben.
+
 > [!WARNING]
 > Mivel mindenkinek a témája más, ebből adódóan a komplexitás is más, ezért nem tudok konkrét állapotokat írni, hogy mikorra mi legyen készen, de a %-os aránnyal remélhetőleg be tudjátok saját magatoknak lőni.
+
+## Értékelés és határidő
+
+TODO :)
 
 ## Konzultáció
 
