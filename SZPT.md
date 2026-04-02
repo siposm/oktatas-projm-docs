@@ -4,9 +4,10 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Szoftverprojekt t
 
 ## A tárgysorozat célja
 
-A projektmunka egy **tárgysorozat**, amely mellé még a szakdolgozat is be fog csatlakozni. A célja a projektmunka tárgysorozatnak az volna, hogy dolgozzatok több féléven át egy nagyobb projekten, amiből akár szakdolgozat is válhat.
+A projektmunka egy **tárgysorozat**, amely mellé még a szakdolgozat is be fog csatlakozni. A célja a projektmunka tárgysorozatnak az volna, hogy dolgozzatok több féléven át egy nagyobb projekten, amiből akár szakdolgozat is válhat. Mivel több féléven át tart a munka, így lehetőség van minden részt alaposan kidolgozni, így a végső munka minősége várhatóan magas lesz.
 
-Mivel több féléven át tart a munka, így lehetőség van minden részt alaposan kidolgozni, így a végső munka minősége várhatóan magas lesz. Már most érdemes szakdolgozathoz megfelelő hozzáállással dolgozni, mert később a most belefektetett munka meg fogja hálálni magát.
+> [!TIP]
+> Már most érdemes szakdolgozathoz megfelelő hozzáállással dolgozni, mert később a most belefektetett többletmunka meg fogja hálálni magát, hiszen a szakdolgozatot könnyebb lesz elkészíteni.
 
 Ha valaki úgy gondolja, hogy később szakdolgozatnak más témát szeretne választani, erre is van lehetőség de akkor az dupla munkát fog jelenteni, hiszen két témán kell majdnem párhuzamosan dolgozni.
 
