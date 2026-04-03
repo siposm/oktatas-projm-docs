@@ -1,5 +1,19 @@
 ## Projektmunkázó hallgatóimnak szóló anyagaim
 
+<br>
+<br>
+
+---
+
+#### 🚀 Tetszett? Hasznos volt?
+
+Ha segített a leírásom akkor ⭐ csillagozd be a repót és kövess be GitHubon. Így nem maradsz le az frissítésekről sem! Illetve sokan olvassátok a leírásaimat, így amolyan "like" funkciónak is nézem. 😊
+
+---
+
+<br>
+<br>
+
 A **Szoftvertervezés és -fejlesztés specializáción** lévő projektmunka tárgysorozathoz tartozó útmutatók és követelmények repója, amelyek csak a hozzám tartozó hallgatókra vonatkoznak.
 
 > [!IMPORTANT]

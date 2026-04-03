@@ -44,7 +44,7 @@ Az egyes mérföldkövek határidejei az előző félévhez hasonló, **adott sz
 
 ## Értékelés és határidő
 
-TODO :)
+A kész munkát a témavezető is, valamint **két további oktató** is értékeli és részletes visszajelzést ad. Az értékelés az eddig elkészült munkára vonatkozik, amelyet egyrészt a dokumentum alapján, másrészt pedig egy videó alapján állapítanak meg. A videón az alkalmazást / rendszert kell bemutatni működés közben. (Ezekről részletek az aktuális félévben!)
 
 ## Konzultáció
 

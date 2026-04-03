@@ -39,7 +39,18 @@ Az egyes mérföldkövek határidejei az előző félévhez hasonló, **adott sz
 
 ## Értékelés és határidő
 
-TODO :)
+A kész munkát a témavezető is, valamint **két további oktató** is értékeli és részletes visszajelzést ad. Az értékelés az eddig elkészült munkára vonatkozik, amelyet egyrészt a dokumentum alapján, másrészt pedig egy videó alapján állapítanak meg. A videón az alkalmazást / rendszert kell bemutatni működés közben. (Ezekről részletek az aktuális félévben!)
+
+## Szakdolgozat
+
+A tárggyal egyidőben, az utolsó félévben van a **Szakdolgozat** tárgy is, amelyen gyakorlatilag ugyan azt a témát kell (lehet) elkészíteni. Mivel az eddig megírt dokumentáció követett bizonyos formai és tartalmi elvárásokat, ezért gyakorlatilag ebből a szakdolgozat előállítása **minimális** munkát igényel!
+
+> [!TIP]
+> **Szakdolgozóimnak, minden fontos és releváns, szakdolgozattal kapcsolatos elvárás a neki megfelelő dedikált repóban található! <https://github.com/siposm/oktatas-szakd-docs>**
+
+## IEEE cikk
+
+A tárgy keretein belül kell készíteni egy IEEE formátumnak megfelelő publikációt. Erről további részletek az adott félévben kerülnek bemutatásra. Valójában arról van szó, hogy az eddig elkészített és megírt rendszer / dokumentáció alapján egy rövid ~4 oldalas, 2 hasábos, angol nyelvű cikket kell készíteni.
 
 ## Konzultáció
 
