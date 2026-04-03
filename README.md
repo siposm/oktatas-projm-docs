@@ -5,9 +5,9 @@
 
 ---
 
-#### 🔥 Tetszett? Hasznos volt?
+🔥 **Tetszett? Hasznos volt?**
 
-Ha segített a leírásom akkor ⭐ csillagozd be a repót és kövess be GitHubon. Így nem maradsz le a frissítésekről sem! Illetve sokan olvassátok a leírásaimat, így amolyan 👍like funkciónak is nézem.
+Ha segített a leírásom akkor ⭐ csillagozd be a repót és kövess be GitHubon. Így nem maradsz le a frissítésekről sem! Illetve sokan olvassátok a leírásaimat, így amolyan 👍 like funkciónak is nézem.
 
 ---
 
