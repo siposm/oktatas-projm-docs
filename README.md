@@ -30,6 +30,7 @@ A **Szoftvertervezés és -fejlesztés specializáción** lévő projektmunka t�
 
 #### További hasznos linkek
 
+- [Projektmunkázók Teams csoportja](https://teams.microsoft.com/l/team/19%3aae2a145f6dd9480399555b23753efa64%40thread.tacv2/conversations?groupId=16327889-d20f-49ea-a555-813f024b8398&tenantId=1d6a56fa-705a-4bbc-8004-67a21d5e9b97)
 - [Projektmunkázók GitHub csoportja](https://github.com/projektmunkazok-siposm)
 - [Projektmunkával kapcsolatos oktatói oldalam](https://nik.siposm.hu/projm)
 - [Szakdolgozattal kapcsolatos oktatói oldalam](https://nik.siposm.hu/szakd)
