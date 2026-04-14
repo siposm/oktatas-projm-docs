@@ -21,12 +21,12 @@ A **Szoftvertervezés és -fejlesztés specializáción** lévő projektmunka t�
 
 #### Tárgyakhoz tartozó leírások
 
-| Félév    | Tárgy                            | Tárgy              |
-| -------- | -------------------------------- | ------------------ |
-| 1. félév | [Szoftverprojekt tervezése](./SZPT.md)  |                    |
-| 2. félév | [Projektmunka 1.](./PM1.md)             |                    |
-| 3. félév | [Projektmunka 2.](./PM2.md)             |                    |
-| 4. félév | [Projektmunka 3.](./PM3.md)             | [Szakdolgozat](https://github.com/siposm/oktatas-szakd-docs) |
+| Spec félév | Tárgy                            | Tárgy              |
+| ---------- | -------------------------------- | ------------------ |
+| 1. félév   | [Szoftverprojekt tervezése](./SZPT.md)  |                    |
+| 2. félév   | [Projektmunka 1.](./PM1.md)             |                    |
+| 3. félév   | [Projektmunka 2.](./PM2.md)             |                    |
+| 4. félév   |                                         | [Szakdolgozat](https://github.com/siposm/oktatas-szakd-docs) |
 
 #### További hasznos linkek
 
@@ -34,6 +34,7 @@ A **Szoftvertervezés és -fejlesztés specializáción** lévő projektmunka t�
 - [Projektmunkázók GitHub csoportja](https://github.com/projektmunkazok-siposm)
 - [Projektmunkával kapcsolatos oktatói oldalam](https://nik.siposm.hu/projm)
 - [Szakdolgozattal kapcsolatos oktatói oldalam](https://nik.siposm.hu/szakd)
+- [Szakdolgozattal kapcsolatos GitHub leírásom](https://github.com/siposm/oktatas-szakd-docs)
 
 <br>
 

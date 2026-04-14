@@ -50,6 +50,13 @@ A kész munkát prezentáció segítségével elő kell adni és be kell mutatni
 
 Kérdés vagy probléma esetén emailben vagy Teams üzenetben elértek. Amennyiben valaki elakad, elveszik a témában akkor szintén kereshet, egyeztetünk időpontot és segítek az elakadáson túljutni. Fontos viszont, hogy az önálló munka jellemezné ezt a tárgysorozatot elsősorban, hiszen mindenkinek más témája és ritmusa van.
 
+## Következő félév, a szakdolgozat
+
+A következő félévben menetrend szerint a Szakdolgozat tárgy következik, amelynek célja, hogy a projektmunka tárgysorozat alatt elkészített dokumentációt és lefejlesztett rendszert egy szakdolgozat követelményeknek megfelelően írja le, mutassa be.
+
+> [!TIP]
+> **Szakdolgozóimnak, minden fontos és releváns, szakdolgozattal kapcsolatos elvárás a neki megfelelő dedikált repóban található! <https://github.com/siposm/oktatas-szakd-docs>**
+
 <br>
 
 ---

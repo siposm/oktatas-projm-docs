@@ -4,7 +4,7 @@ Szeretnék tájékoztatni mindenkit, hogy jelen félévben a **Szoftverprojekt t
 
 ## A tárgysorozat célja
 
-A projektmunka egy **tárgysorozat**, amely mellé még a szakdolgozat is be fog csatlakozni. A célja a projektmunka tárgysorozatnak az volna, hogy dolgozzatok több féléven át egy nagyobb projekten, amiből akár szakdolgozat is válhat. Mivel több féléven át tart a munka, így lehetőség van minden részt alaposan kidolgozni, így a végső munka minősége várhatóan magas lesz.
+A projektmunka egy **tárgysorozat**, amely mellé még a szakdolgozat is be fog csatlakozni. A célja a projektmunka tárgysorozatnak az volna, hogy dolgozzatok több féléven át egy nagyobb projekten, amiből akár szakdolgozat is válhat, ami végül megfelelő minőségben és komplexitásban fog elkészülni. Mivel több féléven át tart a munka, így lehetőség van minden részt alaposan kidolgozni, így a végső munka minősége várhatóan magas lesz.
 
 > [!TIP]
 > Már most érdemes szakdolgozathoz megfelelő hozzáállással dolgozni, mert később a most belefektetett többletmunka meg fogja hálálni magát, hiszen a szakdolgozatot könnyebb lesz elkészíteni.
@@ -13,7 +13,7 @@ Ha valaki úgy gondolja, hogy később szakdolgozatnak más témát szeretne vá
 
 **E-tanterv** esetén a tárgyak így követik egymást:
 
-| Félév    | Tárgy                | Tárgy                 |
+| Spec félév    | Tárgy           | Tárgy                 |
 | -------- | -------------------- | --------------------- |
 | 1. félév | Projektmunka 1 [PM1] |                       |
 | 2. félév | Projektmunka 2 [PM2] |                       |
@@ -22,15 +22,15 @@ Ha valaki úgy gondolja, hogy később szakdolgozatnak más témát szeretne vá
 
 **F-tanterv** esetén a tárgyak így követik egymást:
 
-| Félév    | Tárgy                            | Tárgy              |
+| Spec félév    | Tárgy                       | Tárgy              |
 | -------- | -------------------------------- | ------------------ |
 | 1. félév | Szoftverprojekt tervezése [SZPT] |                    |
 | 2. félév | Projektmunka 1 [PM1]             |                    |
 | 3. félév | Projektmunka 2 [PM2]             |                    |
-| 4. félév | Projektmunka 3 [PM3]             | Szakdolgozat [SZD] |
+| 4. félév |                                  | Szakdolgozat [SZD] |
 
 > [!NOTE]
-> F-tanterv esetén a szakdolgozat már csak egy féléves. A projektmunka pedig hivatalosan a mérnökinformatikus tantervben csak PM1 és PM2 tárgyat jelent, a PM3 egy kötvál tárgyként fog megjelenni, csak úgy, mint az SZPT tárgy is. Ez utóbbi kettő azt a célt, szolgálja, hogy méginkább kiforrott és magas minőségű munka tudjon születni.
+> F-tanterv esetén a szakdolgozat már csak egy féléves. A projektmunka pedig hivatalosan a mérnökinformatikus tantervben csak PM1 és PM2 tárgyat jelent, az SZPT pedig kötvál tárgyként fog megjelenni. Ez utóbbi azt a célt, szolgálja, hogy méginkább kiforrott és magas minőségű munka tudjon születni.
 
 ## Félévi követelmények
 
